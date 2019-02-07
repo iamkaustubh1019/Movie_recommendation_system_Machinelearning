@@ -1,6 +1,6 @@
 # Movie_recommendation_system_Machinelearning
 This is a basic movie recommendation system which recommend movies based on user's experience on movies in the past and similar reviews given .
-Basic machine learning approach was applied where cost function was reduced keepingin mind the regularization term being 0.1 .
+Basic machine learning was applied where cost function was reduced keeping in mind the regularization term being 0.1 .
 
 
 
